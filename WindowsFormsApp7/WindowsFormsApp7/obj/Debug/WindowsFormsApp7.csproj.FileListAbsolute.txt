@@ -1,0 +1,82 @@
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Анастасия\Downloads\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Анастасия\Downloads\WindowsFormsApp7(1)\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\CSharp\ЭТО ТО ЧТО НУЖНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.All.resources
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.All.resources
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+Z:\Факультативы\4. Интерфейсы\Настя и Б\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CSundew.resources
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CNut.resources
+E:\CSharp\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CSunflower.resources
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CNut.resources
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CSunflower.resources
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CSundew.resources
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Анастасия\Downloads\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CHuman.resources
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CHuman.resources
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CNut.resources
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CSunflower.resources
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.CSundew.resources
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+E:\CSharp\ОНО\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
