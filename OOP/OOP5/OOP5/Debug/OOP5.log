@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(8): warning C4010: однострочный комментарий содержит знак объединения строк
+c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(191): warning C4010: однострочный комментарий содержит знак объединения строк
+c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(255): warning C4010: однострочный комментарий содержит знак объединения строк
+c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(311): warning C4010: однострочный комментарий содержит знак объединения строк
+c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(315): warning C4930: Pillow<int> c1(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(316): warning C4930: Next<int> f1(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+  c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(218): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(315): note: выполняется компиляция ссылки на экземпляр шаблон функции "Pillow<int>::Pillow(T,char *)"
+          with
+          [
+              T=int
+          ]
+  c:\users\evgeniy\source\repos\oop5\oop5\source.cpp(315): note: выполняется компиляция ссылки на экземпляр шаблон класс "Pillow<int>"
+  OOP5.vcxproj -> C:\Users\Evgeniy\source\repos\OOP5\Debug\OOP5.exe
